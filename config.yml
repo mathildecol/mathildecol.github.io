@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am a PhD student at the Bordeaux School of Economics, under the supervision of Tanguy Bernard (BSE) and Denis Cogneau (PSE). I am interested in education in Africa, and especially the languages of instruction issue."
+    description: "I am a PhD student at the Bordeaux School of Economics, under the supervision of Tanguy Bernard (BSE) and Denis Cogneau (PSE). I am interested in education in Africa, especially the issue of languages of instruction."
     author: Mathilde Col
     #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
