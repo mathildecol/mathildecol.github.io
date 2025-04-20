@@ -51,7 +51,8 @@ sections:
           - working_papers
         exclude_featured: false
     design:
-      view: citation
+          design:
+      columns: '1'
 
    
  - block: collection
@@ -63,7 +64,8 @@ sections:
           - teaching
         exclude_featured: false
     design:
-      view: citation
+          design:
+      columns: '1'
 
 
 ---
