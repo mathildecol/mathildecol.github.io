@@ -48,7 +48,7 @@ sections:
       text: ""
       filters:
         folders:
-          - working_paper
+          - working_papers
         exclude_featured: false
     design:
       view: citation
