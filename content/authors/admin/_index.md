@@ -29,7 +29,7 @@ profiles:
   - icon: brands/bsky
     url: https://bsky.app/profile/colmathe.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mathildecol
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mathilde-col/
   - icon: academicons/orcid
