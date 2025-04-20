@@ -41,3 +41,5 @@ profiles:
 ## Welcome to my academic website
 
 I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/), under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). I am interested in education in Africa, and especially the languages of instruction issue. I will be visiting the [NOVAfrica department](https://novafrica.org/) in Lisbon from September 2024 to June 2025.
+
+I will defend my thesis in December 2025, and I am actively looking for a post-doc starting in January 2026. I will be based in Addis Ababa (Ethiopia) for the 2026 calendar year.
