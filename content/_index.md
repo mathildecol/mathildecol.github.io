@@ -42,7 +42,7 @@ sections:
     design:
       view: citation
 
- - block: collection
+  - block: collection
     content:
       title: Work in progress
       text: ""
@@ -53,14 +53,12 @@ sections:
     design:
       view: citation
 
-   
-- block: markdown
+  - block: markdown
     content:
       title: 'Teaching'
       subtitle: ''
       text: |-
-Teaching here
+        Teaching here
     design:
       columns: '1'
-
 ---
