@@ -33,7 +33,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -41,5 +41,29 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+ - block: collection
+    content:
+      title: Work in progress
+      text: ""
+      filters:
+        folders:
+          - working_paper
+        exclude_featured: false
+    design:
+      view: citation
+
+   
+ - block: collection
+    content:
+      title: Teaching
+      text: ""
+      filters:
+        folders:
+          - teaching
+        exclude_featured: false
+    design:
+      view: citation
+
 
 ---
