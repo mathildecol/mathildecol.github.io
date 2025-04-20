@@ -32,6 +32,7 @@ sections:
           parallax: false
 
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
@@ -43,6 +44,7 @@ sections:
       view: citation
 
   - block: collection
+    id: working_papers
     content:
       title: Work in progress
       text: ""
@@ -54,6 +56,7 @@ sections:
       view: citation
 
   - block: markdown
+    id: teaching
     content:
       title: 'Teaching'
       subtitle: ''
