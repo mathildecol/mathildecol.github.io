@@ -51,21 +51,16 @@ sections:
           - working_papers
         exclude_featured: false
     design:
-          design:
-      columns: '1'
+      view: citation
 
    
- - block: collection
+- block: markdown
     content:
-      title: Teaching
-      text: ""
-      filters:
-        folders:
-          - teaching
-        exclude_featured: false
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+Teaching here
     design:
-          design:
       columns: '1'
-
 
 ---
