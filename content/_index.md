@@ -56,6 +56,7 @@ sections:
       view: citation
 
   - block: markdown
+    id: teaching
     content:
       title: 'Teaching'
       text: |-
