@@ -55,11 +55,11 @@ sections:
     design:
       view: citation
 
- - block: markdown
+  - block: markdown
     content:
       title: 'Teaching'
       text: |-
-        - 2024: Econometrics of causality (Univ. of Bordeaux - Master 1
+        - 2024: Econometrics of causality (Univ. of Bordeaux - Master 1)
     design:
       columns: '1'
 ---
