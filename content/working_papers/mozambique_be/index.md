@@ -7,11 +7,11 @@ authors:
   - Magona Sande
   - Juliette Crespin-Boucaud
 
-date: '2024-04-15T00:00:00Z'
+date: '2025-01-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-04-21T00:00:00Z'
+publishDate: '2025-04-21T00:00:00Z'
 
 # Publication type.
 publication_types: ['3']  # Ensure this is the correct type from the CSL standard
