@@ -36,7 +36,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'working_papers/global_desc_study/Descriptive_paper__LoI_in_Africa.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
