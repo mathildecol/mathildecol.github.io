@@ -26,7 +26,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mathilde.col@u-bordeaux.fr'
     label: E-mail Me
-  - icon: brands/bsky
+  - icon: custom/bluesky-brands
     url: https://bsky.app/profile/colmathe.bsky.social
   - icon: brands/github
     url: https://github.com/mathildecol
