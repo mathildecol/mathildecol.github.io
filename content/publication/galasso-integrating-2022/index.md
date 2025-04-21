@@ -6,7 +6,7 @@ authors:
 - Lisy Ratsifandrihamanana
 - Ann M. Weber
 - Caitlin Hemlock
-- Mathilde Col
+- admin
 - Maria Dieci
 - Norotiana Rakotomalala
 - Valerie Rambeloson
