@@ -55,7 +55,7 @@ sections:
     content:
       title: 'Projects'
       text: |-
-        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. *Funded by an IGC SPF (January 2025)*
+        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. _[Funded by an IGC SPF (January 2025)](https://www.theigc.org/collections/strengthening-implementation-bilingual-education-reform-mozambique)_
     design:
       columns: '1'
   - block: markdown
