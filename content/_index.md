@@ -56,9 +56,9 @@ sections:
       view: citation
 
  - block: markdown
-    id: wip
+    id: project
     content:
-      title: 'Work in Progress'
+      title: 'Projects'
       text: |-
         - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. _Funded by an IGC SPF (January 2025)_
     design:
