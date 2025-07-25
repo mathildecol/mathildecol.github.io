@@ -3,11 +3,9 @@
 title: ""
 date: 2025-04-20
 type: landing
-
 design:
   # Default section spacing
   spacing: "6rem"
-
 sections:
   - block: resume-biography-3
     content:
@@ -30,7 +28,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: collection
     id: publications
     content:
@@ -42,7 +39,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
   - block: collection
     id: working_papers
     content:
@@ -54,16 +50,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
- - block: markdown
+  - block: markdown
     id: project
     content:
       title: 'Projects'
       text: |-
-        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. _Funded by an IGC SPF (January 2025)_
+        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. *Funded by an IGC SPF (January 2025)*
     design:
       columns: '1'
-
   - block: markdown
     id: teaching
     content:
