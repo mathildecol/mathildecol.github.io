@@ -1,5 +1,5 @@
 ---
-title: 'Improving Student Learning in Remote Areas with Digital Tools, A Randomized Experiment in Rural Senegal'
+title: 'Offline Libraries and Student Learning in Remote Areas: A Randomized Experiment in Rural Senegal'
 
 # Authors
 authors:
@@ -18,15 +18,11 @@ publishDate: '2024-04-21T00:00:00Z'
 publication_types: ['article']  # Ensure this is the correct type from the CSL standard
 
 # Publication name and optional abbreviated publication name.
-publication: 'Ongoing follow-up data collection'
+publication: 'Working paper'
 
 abstract: |
-  In Senegal, as in many low-income countries, the national school enrollment rate has significantly increased over the last two decades (Glewwe et al., 2013). Despite this notable progress, Senegal faces important challenges regarding the quality of its education system, and learning remains low in the country, a phenomenon widely observed across the world and often referred to as the “global learning crisis” (UNESCO, 2013). Many factors can be at play: teacher quality, instructional support, heterogeneous class levels, or Internet access. These factors are particularly salient in the most deprived and remote areas, resulting in large regional disparities.
-
-  We are evaluating the impact of delivering a [digital kit](https://www.librarieswithoutborders.org/ideasbox/) to primary schools in the Kedougou region in Senegal. A kit comprises a computer, several tablets, a video projector, and an offline library containing many different text, video, and audio files available to teachers and students on various digital devices. A trainer is assigned to each school and assists the teachers twice a month to help them use the devices, advise them on the documents they can use for their lessons, or solve any technical issues. In addition, a monthly session gathers all the equipped schools from a province to favor discussions between teachers on their experiences.
-
-  We are conducting a large-scale Randomized Control Trial (RCT) on a sample of 140 primary schools in the region. Out of this sample, 70 schools have been randomly assigned to benefit from this digital kit. We conducted a baseline data collection in October 2023 and an endline data collection in May 2024 on the 140 schools to evaluate the effects of this intervention on grade 3 and grade 5 teachers and students. On the one hand, we are considering the impact on teachers' knowledge and pedagogical practices using a self-declared questionnaire, a knowledge test in Mathematics and French, and an evaluation of their pedagogical skills using the TEACH evaluation tool developed by the World Bank. On the other hand, we evaluate the effects on student learning in Mathematics and French using a test answered by grade 3 and grade 5 students in class. We will also use administrative data from the Ministry of Education to evaluate the effects on the end-of-primary school national test and their access to middle school.
-
+  This paper studies the impact of offline digital technologies on teacher practices and student learning in remote schools. We conducted a cluster-randomized controlled trial in 140 primary schools in the Kedougou region of Senegal, where internet access is nearly absent. The intervention provided offline digital libraries containing educational materials accessible without connectivity, along with tablets for students and SD cards for teachers. High-frequency usage data show substantial initial adoption, followed by a decline in the second year. The program significantly improved teachers’ digital competencies and their ability to integrate digital tools into instruction, but did not enhance teaching quality or subject knowledge. For students, average effects on learning were modest but varied sharply with infrastructure. In schools connected to the electricity grid, test scores increased by 0.3–0.5 standard deviations, while non-electrified schools experienced no gains or small losses. The evidence points to electricity as a key enabling condition: sustained engagement and effective classroom use depended on sufficient charging capacity. These findings suggest that offline digital technologies can enhance learning in low-connectivity settings, but their success critically depends on complementary infrastructure. 
+  
 tags:
   - Digital technology
   - Senegal
