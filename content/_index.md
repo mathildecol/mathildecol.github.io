@@ -15,7 +15,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: CV
-        url: uploads/resume2025_col.pdf
+        url: uploads/academic_cv_032026.pdf
     design:
       css_class: dark
       background:

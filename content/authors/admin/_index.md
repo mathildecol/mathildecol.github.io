@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Development economist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,6 +40,7 @@ profiles:
 
 ## Welcome to my academic website
 
-I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/), under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). I am interested in education in Africa, and especially the languages of instruction issue. I will be visiting the [NOVAfrica department](https://novafrica.org/) in Lisbon from September 2024 to June 2025.
+I am a researcher affiliated with the [Bordeaux School of Economics (BSE)](https://www.bse.u-bordeaux.fr/). I obtained my PhD from BSE in December 2025, under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). 
+My research interests focus on the economics of education in developing countries and colonial history, and in particular the choice of language of instruction.
 
-I will defend my thesis in December 2025, and I am actively looking for a post-doc starting in January 2026. I will be based in Addis Ababa (Ethiopia) for the 2026 calendar year.
+I am currently based in Addis Ababa, Ethiopia. *I am actively looking for a post-doc starting in September 2026 and based in Brussels and surroundings.* 
