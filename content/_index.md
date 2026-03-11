@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: working_papers
     content:
-      title: Work in progress
+      title: Working papers
       text: ""
       filters:
         folders:
@@ -53,9 +53,10 @@ sections:
   - block: markdown
     id: project
     content:
-      title: 'Projects'
+      title: 'Research projects'
       text: |-
-        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with Juliette Crespin-Boucaud Magona Sande. _[Funded by an IGC SPF (January 2025)](https://www.theigc.org/collections/strengthening-implementation-bilingual-education-reform-mozambique)_
+        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with [Juliette Crespin-Boucaud](https://juliettecrespinboucaud.com/) (U. Namur) Magona Sande (U. Maputo). _[Funded by an IGC SPF (January 2025)](https://www.theigc.org/collections/strengthening-implementation-bilingual-education-reform-mozambique)_ *Ongoing data collection*
+        - Impact to access to secondary education: Evidence from administrative data in Côte d'Ivoire, with [Tanguy Bernard](https://sites.google.com/view/tanguybernard/home). *Ongoing data collection*
     design:
       columns: '1'
   - block: markdown
@@ -63,7 +64,9 @@ sections:
     content:
       title: 'Teaching'
       text: |-
+        - 2026: Stata training (J-PAL Morocco - Research Assistants)
         - 2024: Econometrics of causality (Univ. of Bordeaux - Master 1)
+        - 2021: Introduction to R (Ministry of Nutrition in Madagascar - MEL team)
     design:
       columns: '1'
 ---
