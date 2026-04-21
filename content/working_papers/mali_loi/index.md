@@ -1,5 +1,5 @@
 ---
-title: 'N m’a faamu. Boosting Learning Through Bilingual Education: Evidence from Mali'
+title: 'N m’a faamu. Boosting Learning without Dividing: Evidence from a Bilingual Education Reform in Mali'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,10 +21,11 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication: 'Working Paper'
 
-abstract: Bilingual education is increasingly recognized as a tool to address learning deficits in linguistically diverse contexts such as sub-Saharan countries. In this study, I analyze the long-term impacts of Mali’s 1999 bilingual education reform, which introduced local languages alongside French in primary schools. Using a Difference-in-Differences approach with detailed school-level data, I find that exposure to the reform improved literacy in both French and local languages and increased school attendance. Women concentrate all benefits of bilingual education. However, its effectiveness depends on sufficient educational resources, such as low student-teacher ratios. These findings highlight the potential of mother tongue-based instruction to enhance learning and promote equity when paired with adequate school inputs.
+abstract: Despite promising evidence on the benefits of multilingual education in Sub-Saharan countries, its expansion suffers from a lack of evidence on linguistic transfer from the first language (L1) to the second language (L2) and a persistent belief that it will boost ethnic identity. This study evaluates the long-term impacts of Mali’s 1999 national bilingual education reform, which introduced 11 local languages into the primary school curriculum as languages of instruction. Exploiting spatial variation in policy implementation and using a difference-in-differences approach with commune-level data, the study finds that exposure to bilingual education significantly improves local language literacy by 30% and French literacy by 10%. These gains are especially pronounced among women. Contrary to concerns over national cohesion, the policy does not exacerbate ethnic tensions and even increases trust in the national institutions. The findings contribute to the literature on large-scale bilingual education and the political economy of language use in Africa, suggesting that integrating local languages into education systems can enhance human capital without undermining nation-building.
 
 tags:
   - Bilingual education
+  - Nation building
   - Mali
   - DiD
 
