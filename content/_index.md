@@ -15,7 +15,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: CV
-        url: uploads/academic_cv_032026.pdf
+        url: uploads/academic_cv_052526.pdf
     design:
       css_class: dark
       background:
@@ -55,8 +55,9 @@ sections:
     content:
       title: 'Research projects'
       text: |-
-        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with [Juliette Crespin-Boucaud](https://juliettecrespinboucaud.com/) (U. Namur) Magona Sande (U. Maputo). _[Funded by an IGC SPF (January 2025)](https://www.theigc.org/collections/strengthening-implementation-bilingual-education-reform-mozambique)_ *Ongoing data collection*
-        - Impact to access to secondary education: Evidence from administrative data in Côte d'Ivoire, with [Tanguy Bernard](https://sites.google.com/view/tanguybernard/home). *Ongoing data collection*
+        - Strengthening the Implementation of a Bilingual Education Reform in Mozambique, with [Juliette Crespin-Boucaud](https://juliettecrespinboucaud.com/) (U. Namur) and Magona Sande (U. Maputo). _[Funded by an IGC SPF (January 2025)](https://www.theigc.org/collections/strengthening-implementation-bilingual-education-reform-mozambique)_ *Ongoing data collection*
+        - Air pollution air students’ achievements in Côte d’Ivoire, with [Thomas Thivillion](https://www.thomasthivillon.com/). *Early stage*
+        - Language of instructions & nation building in the catholic missions in DRC, with Juliette Crespin Boucaud (U. Namur), [Yannick Dupraz](https://sites.google.com/site/yannickdupraz/) (Paris Dauphine), [Catherine Guirkinger](https://catherine.guirkinger.com/) (U. Namur), [Paola Villar](https://sites.google.com/view/paolavillar/home) (Panthéon-Sorbonne, CES). *Ongoing data collection*
     design:
       columns: '1'
   - block: markdown

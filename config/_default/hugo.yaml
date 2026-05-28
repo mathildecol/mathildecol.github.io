@@ -6,7 +6,7 @@
 # Website name
 title: Mathilde Col's website
 # Website URL
-baseURL: 'https://mathildecol.com/'
+baseURL: 'https://mathildecol.github.io/'
 
 ############################
 ## LANGUAGE

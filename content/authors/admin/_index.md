@@ -41,6 +41,6 @@ profiles:
 ## Welcome to my academic website
 
 I am a researcher affiliated with the [Bordeaux School of Economics (BSE)](https://www.bse.u-bordeaux.fr/). I obtained my PhD from BSE in December 2025, under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). 
-My research interests focus on the economics of education in developing countries and colonial history, and in particular the choice of language of instruction.
+My research interests focus on the economics of education in developing countries and colonial history, and in particular the choice of language of instruction. I was recently awarded the [IPUMS International Student Research Award](https://www.ipums.org/impact/ipums-research-award) for my paper on bilingual education policies in Sub-Saharan Africa.
 
 I am currently based in Addis Ababa, Ethiopia. *I am actively looking for a post-doc starting in September 2026 and based in Brussels and surroundings.* 
