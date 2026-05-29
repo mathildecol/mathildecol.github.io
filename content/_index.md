@@ -65,7 +65,7 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        - 2026: Stata training (J-PAL Morocco - Research Assistants)
+        - 2026: Introduction to R and Machine learning (Addis Ababa University), Stata training (J-PAL Morocco - Research Assistants)
         - 2024: Econometrics of causality (Univ. of Bordeaux - Master 1)
         - 2021: Introduction to R (Ministry of Nutrition in Madagascar - MEL team)
     design:
